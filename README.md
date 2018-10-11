@@ -1,7 +1,7 @@
 Abstract
 ======
 
-Diese Arbeit beschäftigt sich mit dem Thema WebRTC, also der Peer-to-Peer-Datenübertragung im Webbrowser. Es wird untersucht ob diese junge Technologie bereits einen Entwicklungsstand erreicht hat, der einen produktiven Einsatz rechtferti-gen würde. 
+Diese Arbeit beschäftigt sich mit dem Thema WebRTC, also der Peer-to-Peer-Datenübertragung im Webbrowser. Es wird untersucht ob diese junge Technologie bereits einen Entwicklungsstand erreicht hat, der einen produktiven Einsatz rechtfertigen würde. 
 
 Dazu ist ein Prototyp entwickelt worden, welcher während einem Live-Event den Ein-satz von Zuschauermikrofonen überflüssig machen soll. Die digitale Aufzeichnung der Zuschauerfragen wird dabei von den mobilen Endgeräten (Smartphone, Tablet, Lap-top, etc.) der Fragenden übernommen, da diese heutzutage weitestgehend mit Mikro-fon und Kamera bestückt sind. Die damit aufgezeichneten Daten werden über eine WebRTC-Verbindung zu einem zentralen Host geleitet und von dort aus weiterverar-beitet.
 
